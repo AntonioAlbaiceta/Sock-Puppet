@@ -1,0 +1,27 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2023-11-05T21:54:19+01:00",
+  "id": "Sock Puppet",
+  "duration": 0,
+  "title": "Sock Puppet",
+  "summary": "Sock Puppet",
+  "source": "Sock Puppet.md",
+  "theme": "",
+  "status": [
+    "published"
+  ],
+  "category": [
+    "codelab",
+    "markdown",
+    "bios",
+    "cybersecurity"
+  ],
+  "tags": [
+    "web"
+  ],
+  "ga": "ID de Google Analytics",
+  "url": "Sock Puppet"
+}
